@@ -3,7 +3,7 @@ title: "My First Post"
 description: |
   A short description of the post.
 author:
-  - name: Dasimon Lim
+  - name: Desmond Lim
     url: https://example.com/norajones
 date: 01-04-2021
 output:
