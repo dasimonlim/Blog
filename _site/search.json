@@ -3,10 +3,10 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "Desmond Lim <br>\nEmail: desmond.lim.2020@mitb.smu.edu.sg",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-04T20:48:36+08:00"
+      "last_modified": "2021-01-28T02:46:24+08:00"
     },
     {
       "path": "dataviz.html",
@@ -20,7 +20,7 @@
       "title": "DataVizzing",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-28T02:31:08+08:00"
+      "last_modified": "2021-01-28T02:44:33+08:00"
     }
   ],
   "collections": ["posts/posts.json"]

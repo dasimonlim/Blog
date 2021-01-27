@@ -2,6 +2,7 @@
 title: "DataViz Makeover 1"
 description: |
   ISSS608 Visual Analytics and Applications: DataViz Makeover
+preview: DataViz1 Pics/Dataviz1 Pic 16 Dashboard.png
 author:
   - name: Desmond Lim
     

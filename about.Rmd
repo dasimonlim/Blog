@@ -1,7 +1,8 @@
 ---
 title: "About this blog"
 description: |
-  Some additional details about the blog
+  Desmond Lim <br>
+  Email: desmond.lim.2020@mitb.smu.edu.sg
 ---
 
 ```{r setup, include=FALSE}
