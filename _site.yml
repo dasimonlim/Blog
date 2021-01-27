@@ -1,7 +1,7 @@
 name: "Blog"
-title: "Idea"
+title: "DataVizzing"
 description: |
-  Idea
+  DataViz
 output_dir: "_site"
 navbar:
   right:
