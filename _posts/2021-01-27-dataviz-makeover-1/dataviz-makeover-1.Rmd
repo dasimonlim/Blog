@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](DataViz1 Pics/Dataviz Qn.png)
 **Clarity**
 
-|  Critique | Suggestions|
+|  Critiques | Suggestions|
 |:---------:|:----------:|
 | 1) Information in the lead-in paragraph could not be visualized/interpreted from the chart. For example, it stated the share of labour force aged 25 to 54 declined from 75% to 67%. That could not be interpreted from the chart, as the population are grouped in 5-year brackets. | The dashboard title and lead-in to be able to relate and provide an intuitive understanding to the chart visualisation.                                                     |
 | 2) The visualisation only depicts the comparison statistics from 2009 and 2019. It lacks the information on the changes between 2009 and 2019.| The chart visualisation will incorporate the data from 2009 to 2019 to gain more insights to the change in resident labour population over the years. |
@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Aesthetics**
 
-| Critique | Suggestions  |
+| Critiques | Suggestions  |
 |:--------:|:-------------:|
 | 1)  The x-axis labels are not aligned to the tick marks but in between the tick marks. | Incorporate proper axis labelling and aligning. |
 | 2) Poor colour coding. The colour of the “June 2009” line is too close to the background colour. | Proper colour but non-excessive colour coding to highlight necessary information.|
