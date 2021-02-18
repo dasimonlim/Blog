@@ -2,7 +2,7 @@
 title: "DataViz Makeover 2"
 description: |
   ISSS608 Visual Analytics and Applications: DataViz Makeover
-preview: DataViz2 Pics/Final Viz.png
+preview: DataViz 2 Pics/Final Viz.png
 author:
   - name: Desmond Lim
     url: {}
