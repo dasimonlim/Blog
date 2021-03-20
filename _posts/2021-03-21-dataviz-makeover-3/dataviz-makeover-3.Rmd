@@ -1,5 +1,5 @@
 ---
-title: "Dataviz Makeover 3"
+title: "DataViz Makeover 3"
 description: |
   ISSS608 Visual Analytics and Applications: DataViz Makeover
 preview: DataViz3 Pics/Final Viz.png
